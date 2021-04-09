@@ -1,6 +1,6 @@
 <!-- Headings -->
 #Soft - Skill
-###1-What is the difference between STLC and SDLC ?
+##1-What is the difference between STLC and SDLC ?##
 *  SDLC is a Development Life Cycle whereas STLC is a Testing Life Cycle.
 - STLC is mainly related to software testing.
 - It focuses only on testing the software.
