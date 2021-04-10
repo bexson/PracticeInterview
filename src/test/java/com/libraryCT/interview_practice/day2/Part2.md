@@ -1,4 +1,4 @@
-#1. What is boundary testing?
+# 1. What is boundary testing?
 #### ( CVS interview question )
    * Boundary testing - is type of testing, where tests are performed using the boundary values.
 
