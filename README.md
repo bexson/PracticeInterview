@@ -13,6 +13,7 @@
 - Goal of SDLC is to complete successful development of software.
 
 ###2 - When Should The Testing Start?
+
 - It should start since the beginning of SDLC with testing the requirement.
 - We have to make sure the requirement is correct in the first place. 
 With the wrong requirement it is impossible to build a bug free application.
