@@ -47,11 +47,17 @@
  
 ### ( TCS/Amex )
 
-# 8. Imagine that you do not have enough time to test an application. What will you do: Do a quick test…? What will be your approach?   
+# 8. Imagine that you do not have enough time to test an application. What will you do: Do a quick test…?What will be your approach?   
+
 ### ( PNC bank )
+
 
 # 9. You mentioned the cucumber BDD framework, there are two different types of cucumber BDD which one is yours?  
 ### ( BankOfAmerica )
+
+ - So , mine is Cucumber-JVM , since  it is fully Gherkin-compliant solution. 
+   Where JBehave lacks some common Gherkin features.
+   
 
 
 # 10. Imagine if you have an API test case that is data-driven (id) and after you pushed the test case to GitHub -> Jenkins - it shows 503 status code. Why? Where do you see the status code?  
