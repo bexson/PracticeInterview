@@ -24,11 +24,15 @@
 
 ### ( ARC Airlines )
 
-- 
+- Checking if automated tests are built correctly, i.e. are they testing what they were intended to test
+- Reviewing individual test results and uncovering why failed tests failed
+- Analyzing test results across the board to understand why some tests fail more frequently than others
 
 # 4. How do you compare two values from different data structures?
 
 ### ( InfoSys )
+
+
 
 
 # 5. Imagine that you are the test lead, and you have a security issue with the Login functionality. What would you do?
@@ -41,13 +45,20 @@
 
 ### ( TCS/Amex ) 
 
-- 
+In my team , code that is considered good:
+
+- Does what it should.
+- It is easy to understand.
+
+- It can be tested
    
 # 7. What is the difference between progression and regression testing? 
  
 ### ( TCS/Amex )
 
-# 8. Imagine that you do not have enough time to test an application. What will you do: Do a quick test…?What will be your approach?   
+- Progression testing focuses on new functionality and proving that it works as per the requirements. Whereas regression testing focuses on proving that existing functions of the application are not broken from the addition of new code.
+
+# 8. Imagine that you do not have enough time to test an application. What will you do: Do a quick test…? What will be your approach ?
 
 ### ( PNC bank )
 
@@ -55,8 +66,7 @@
 # 9. You mentioned the cucumber BDD framework, there are two different types of cucumber BDD which one is yours?  
 ### ( BankOfAmerica )
 
- - So , mine is Cucumber-JVM , since  it is fully Gherkin-compliant solution. 
-   Where JBehave lacks some common Gherkin features.
+ - I use Junit
    
 
 
@@ -64,4 +74,4 @@
 
 ### ( Sogeti )
 
-- 503 status code is about server side error. So it means the server is currently unable to handle the request coz it is overloaded or scheduled maintenance. I can see the status code using developer tools. 
+- 503 status code is about server side error. So it means the server is currently unable to handle the request coz it is overloaded or scheduled maintenance. I can see the status code using developer tools.
