@@ -29,7 +29,6 @@
 ## 4 - What are the advantages of API Testing ?
 - API testing provides access to the application without a user interface. 
 - Time Effective : so API testing is less time-consuming than functional GUI testing
-- Language-Independent : In this testing, data is exchanged using XML or JSON. It, allowing users to select any code language when adopting automation testing
 - Easy Integration with GUI: API tests enable highly integrable tests, which is particularly useful if you want to perform functional GUI tests after API testing. For instance, simple integration would allow new user accounts to be created within the application before a GUI test started.
 
 ## 5 - How do you make assertions while doing API testing ? Which assertion dependency are you using for that?
@@ -47,7 +46,7 @@
 
 ## 8 - What type of Authentication are there in API? What is an OAuth ? What is JWT ?
 - There are 4 types of them : 
-   - Basic Auth
+   - Basic Auth , we just provide username and password
    - API Keys
    - Bearer token
    - oAuth2
