@@ -45,6 +45,9 @@
 
 - Authentication : Telling the system who you are , proving the identity against whom you say you are.
 - Authorization : Things you can do according to who you are, The permission attached to your identity.
+  In simple terms, authentication is the process of verifying who a user is, while authorization is the process of verifying what they have access to.
+
+Comparing these processes to a real-world example, when you go through security in an airport, you show your ID to authenticate your identity. Then, when you arrive at the gate, you present your boarding pass to the flight attendant, so they can authorize you to board your flight and allow access to the plane.
 
 ## 6. What kinds processes can be automated using jenkins ?
 - There can be automated smoke tests , using maven command
