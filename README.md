@@ -1,5 +1,5 @@
 
-[Day 1 - Interview](/src/test/java/com/libraryCT/interview_practice/day1.md)
+[Day 1 - Interview Practice](/src/test/java/com/libraryCT/interview_practice/day1.md)
 
 #### 
 
