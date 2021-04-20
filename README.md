@@ -21,3 +21,7 @@
 
 [Day 6 - Interview Practice](/src/test/java/com/libraryCT/interview_practice/day6.md)
 
+#### 
+
+[Day 7 - Interview Practice](/src/test/java/com/libraryCT/interview_practice/day7.md)
+
