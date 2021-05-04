@@ -84,6 +84,7 @@
    - css : div[class='ad99']
   - xpath : //div[@class='ad99']
 
+- With css we can't use text to locate element , but with Xpath we can use
 - Xpath can search elements backward or forward while css works only in forward direction.
 - Xpath can work with text, css cannot work.
 - Xpath has more combinations and can search by index, css cannot search by index

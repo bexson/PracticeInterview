@@ -1,7 +1,7 @@
 # API Questions
 
 ##### 1. How did you do API testing ? What was your purpose ( in my last project )
-- I have experience both in testing and automating in Postman and automating using RestAssured Library.  So , in Postman I was doing manual testing , and automation like verifying the status code  , checking the body , headers by using some basic knowledge of javascript , I was also able to run my collections from command line and getting the newman report. So , talking about RestAssured , I created the framework. I have conf.properties, utilities and basically I was doing a lot of assertions , so I tested the app functionality works in api layer.  
+- I have experience both in Postman and RestAssured Library.  So , in Postman I was doing manual testing , and automation like verifying the status code  , checking the body , headers by using some basic knowledge of javascript , I was also able to run my collections from command line and getting the newman report. So , talking about RestAssured , I created the framework. I have conf.properties, utilities and basically I was doing a lot of assertions , so I tested the app functionality works in api layer.  
 
 
 ##### 2. Give us an example, step by step, how you would automate a test case API side. What do you do ?
@@ -15,7 +15,7 @@
 
 - In a recent POST /add_user endpoint , 
 - It expects a json as payload, and it has strict restriction on the field values like name length , phone number , email verifications , the right status along with the positive scenario where I add correct json payload and expect 201 status code with valid headers and response payload 
-  
+
 - I added negative scenarios for all kind of 400 BAD REQUEST scenarios, 
 
 - like either name as invalid length , phone or email has invalid format , status is not right or multiple invalid inputs
@@ -41,8 +41,8 @@
                     .body(matchesJsonSchemaInClasspath("products-schema.json"));
 
 ##### 6. How can you convert from Json to Java Object and Java Object to Json ?
-- Serialization : From Json to Java
-- Deserialization : From Java to Json 
+- Serialization : Java Object to Json
+- Deserialization : Json to Java
 
 - I have POJO(Plain Old Java Object) class that represent the structure of json object I use Jackson Data-bind library to do such conversion known as Serialization and De-Serialization
 
