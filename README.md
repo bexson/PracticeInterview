@@ -29,3 +29,11 @@
 
 [Day 8 - Interview Practice](/src/test/java/com/libraryCT/interview_practice/day8.md)
 
+#### 
+
+[Soft - Skills Questions](/src/test/java/com/libraryCT/interview_practice/soft_skills.md)
+
+#### 
+
+[Java Interview Questions](/src/test/java/com/libraryCT/interview_practice/javaQuestions.md)
+
