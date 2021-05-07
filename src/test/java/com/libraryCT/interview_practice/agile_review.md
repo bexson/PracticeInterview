@@ -1,3 +1,24 @@
+# What is User Story ? 
+
+- Short, simple descriptions of a feature or features told from the costumer.
+
+
+# How do we know if this is a good user story?
+- INVEST criteria
+
+- Independent: Should be self-contained in a way that allows to be released without depending on one another.
+- Negotiable: Only capture the essence of user's need, leaving room for conversation. User story should not be written like contract.
+- Valuable: Delivers value to end user.
+- Estimable: User stories have to be able to be estimated, so it can be properly prioritized and fit into sprints.
+- Small: A user story is a small chunk of work that allows it to be completed in about 3 to 4 days.
+- Testable: A user story has to be confirmed via pre-written acceptance criteria.
+
+# What is Acceptance Criteria ? 
+
+- are the conditions that a software product must meet to be accepted by a user, a customer, or other system.
+-  They are unique for each user story and define the feature behavior from the end-user’s perspective.
+
+
 # How do I estimate the point ? 
 54;42
 for example, I have a simple user story :
@@ -66,6 +87,8 @@ scenarios:
 # Achievements 
 
 - Well, I don't have big achievements. But I have small things that I can mention. One day I found small issues on user story. Even tho it is a small things I corrected , I collaborated with PO and ended up, update the user story. And from that PO had a great impression on me. On one of the retro meetings they just talked about these things. Everyone said thank you for your hard work.
+
+
 
 
 # Questions for the interviewers at the end ? 

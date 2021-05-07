@@ -26,6 +26,8 @@
 
 #### ==> At Sprint Planning meeting PO take user stories from product backlog to sprint backlog, we prioritize estimated user story, we plan for upcoming 1 sprint, and we assign the user stories. 
 - We count our capacity and velocity for the sprint.
+- It takes around 2 hrs.
+- Happens after grooming meeting.
 
 
       Capacity - total num of dev team - 2 days for the meetings(Planning & Grooming) = numOfVelocity
@@ -45,12 +47,14 @@
 #### ==> Sprint Demo meeting hosted by PO. Scrum team and Costumer are involved. 
 - Developers and we (testers) demonstrate our work that we've done during the sprint to PO and client. 
 - This meeting happens once at the end of the sprint.
+- Takes around 2 hrs.
 
 #### ==> Sprint Retrospective hosted by SM. Dev team and Scrum master are involved. We answer 3 questions : 
 - What went well ?
 - What was not going well ?
 - How can we improve ?
 - This meeting happens at the end of the sprint, after Demo meeting.
+- Takes around 1 hour.
 
 # 5 - Which scrum meeting is the most important for you ?
 
