@@ -37,3 +37,7 @@
 
 [Java Interview Questions](/src/test/java/com/libraryCT/interview_practice/javaQuestions.md)
 
+#### 
+
+[SQL Interview Questions](/src/test/java/com/libraryCT/interview_practice/sql.md)
+
