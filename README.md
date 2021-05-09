@@ -41,3 +41,11 @@
 
 [SQL Interview Questions](/src/test/java/com/libraryCT/interview_practice/sql.md)
 
+#### 
+
+[Jenkins Interview Questions](/src/test/java/com/libraryCT/interview_practice/jenkins.md)
+
+#### 
+
+[Cucumber Interview Questions](/src/test/java/com/libraryCT/interview_practice/cucumber_interview.md)
+
