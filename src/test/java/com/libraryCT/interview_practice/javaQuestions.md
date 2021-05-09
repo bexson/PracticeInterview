@@ -272,7 +272,7 @@ public class Main {
 ##### ---> try & catch - permanent solution, used for handling checked and unchecked exceptions
 - all exceptions that are not run time are checked exceptions
 
-##### ---> throws - the quickest solution , but not permanent solution, used for handling checked exceptions
+##### ---> throws - the quickest solution, used for temporary solution , but not permanent solution, used for handling checked exceptions
 
     for example: 
     I created and handled sleep custom method , which will wait like Thread.sleep, but instead of giving milliseconds I'm giving seconds and handled it by using try&catch block, so that I don't need to deal with it in other classes.
@@ -311,8 +311,13 @@ public class Main {
 
 ##### ---> I can use any variable in non-static method. Only the instance methods can be overridden.
 
-## 37 -
-##### --->
+## 37 - What is the difference between exception and the error ? 
+
+##### ---> Error class represents critical conditions that can not be caught and handled by the code of the program. On the other hand, the Exception class represents concerning conditions raised by the application itself; these can be caught and handled within the code to ensure that the application continues to run smoothly.
+# Errors : java.lang.StackOverflowError, java.lang.OutOfMemoryError
+# Exceptions : NoSuchElement, SQLException, ArrayOutOfBoundsException
+
+
 ## 38 -
 ##### --->
 ## 39 -

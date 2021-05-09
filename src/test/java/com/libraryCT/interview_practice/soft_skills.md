@@ -176,7 +176,7 @@ By the email, I can see the tasks on Jira.(for meeting, bug ticket, new assignme
 #### ==>
 
 
-#  - How do you run regression ?
+# 19 - How do you run regression ?
 ==> Hello, Regression test is used to confirm that a recent code change or any new feature has not adversely affected existing features.
 
 ==> In my team, we have minor regression which we run whenever new functionality added to our application,  and we need to make sure that it will collaborate with the whole product together, so in that case we run our minor regression to see how the application will behave in such situation, and major regression: it re-executing all the test cases to ensure all existing and new functionalities works fine together.
@@ -189,14 +189,47 @@ By the email, I can see the tasks on Jira.(for meeting, bug ticket, new assignme
 ==> it takes around 6 and a half - 7 hours and the whole team needs to be present in that time.
 ==> We have ~ 600 test cases 
 
+# 20 - SDLC vs STLC ? 
+#### ==> STLC it is a process in SDLC.
+#### ==> SDLC stands for Software Development Life Cycle.
+1. SDLC starts from the requirement gathering. Where PO gather the requirement from the client. 
+2. Designing. Designers design the app and documents.
+3. Development. This is the actual writing of the program. Where developers develop and creates the application.
+4. Testing. Different types of testers will work here to test the application to make sure it meets the requirements and to make sure we are building the bug-free application.
+After that Testing life cycle is starting.
+5. Deployment phase. The application is made available to users. Here app will be deployed to the market for the end users to use the app.
+6. Maintaining. We maintain the app. It means if any bugs found from the end users or client wants to add new changes. Or we want to make sure the app running smoothly, so we need to maintain , which means we need to repeat the sdlc life cycle.
+
+#### ==> STLC stands for Software Testing Life Cycle , It is an integral part of SDLC , but it deals only with the testing phases.
+- STLC starts as soon as requirements are defined or SRD (Software Requirement Document) is shared by stakeholders.
+- As soon as the development phase is over, the testers are ready with test cases and start with execution.
+- STLC has the different phases , which I wanna mention right now :
+1. Requirement analysis -  where quality assurance team understands the requirements like what is to be tested. If anything is missing or not understandable then quality assurance team meets with the stakeholders to better understand the detail knowledge of requirement.
+2. Test Planning: is most efficient phase of STLC where all testing plans are defined. In this phase manager of the testing team calculates estimated effort and cost for the testing work. 
+3. Test Case Development: In this phase testing team note down the detailed test cases. Testing team also prepare the required test data for the testing. When the test cases are prepared then they are reviewed by quality assurance team.
+4. Test Environment Setup:  Basically test environment decides the conditions on which software is tested. Test team may not be involved in this activity if the development team provides the test environment
+5. Test Execution: After the test case development and test environment setup, test execution phase gets started. In this phase testing team start executing test cases based on prepared test cases in the earlier step.
+6. Test Closure: This is the last stage of STLC in which the process of testing is analyzed.
+
+- Each of these stages has a definite Entry and Exit criteria, Activities & Deliverables associated with it.
+- Entry Criteria: Entry Criteria gives the prerequisite items that must be completed before testing can begin.
+- Exit Criteria: Exit Criteria defines the items that must be completed before testing can be concluded
+#### ==>
+#### ==>
+
 #  - 
 #  - 
 
+#  - 
+
+#  -
+#  -
 #  -
 #### ==> 
-#  -
 #### ==> 
-#  -
+#### ==> 
+#### ==> 
+#### ==> 
 #### ==> 
 #  -
 #### ==> 
